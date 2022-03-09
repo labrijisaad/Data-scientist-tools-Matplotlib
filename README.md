@@ -1,7 +1,7 @@
 ## 🛠️   Data scientist tools - `matplotlib` :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74627083/157456552-07aeacdc-e3b1-4473-af48-41d3eeb05eb1.jpg" />
+  <img src="https://user-images.githubusercontent.com/74627083/157457233-29354868-6e5a-4079-848e-c510af92ca58.jpg" />
 </p>
 
 - 🎯 We will see in this **`hands-on training notebook`** how to use the `matplotlib` library to plot beautiful graphs in **`Python`**.
