@@ -1,4 +1,9 @@
 ## 🛠️   Data scientist tools - `matplotlib` :
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74627083/157456552-07aeacdc-e3b1-4473-af48-41d3eeb05eb1.jpg" />
+</p>
+
 - 🎯 We will see in this **`hands-on training notebook`** how to use the `matplotlib` library to plot beautiful graphs in **`Python`**.
 - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
 - 🙌 Notebook made by [@labriji_saad](https://github.com/labrijisaad) inspired by the work of [ageron](https://github.com/ageron).
