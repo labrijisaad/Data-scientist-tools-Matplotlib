@@ -4,7 +4,7 @@
 
 <a href="https://colab.research.google.com/github/labrijisaad/Data-scientist-tools-Matplotlib" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-### `General overview` 🕊️ :
+## 🕊️  General `overview` :
  - 👣 Here are the steps we followed in this notebook :
    - 1️⃣  Plotting your **`first graph`**
    - 2️⃣  **`Line style`** and **`color`**.
