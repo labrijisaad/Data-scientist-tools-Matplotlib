@@ -6,10 +6,10 @@
  - 👣 Here are the steps we followed in this notebook :
    - 1️⃣  **`Plotting your first graph`**
    - 2️⃣  **`Line style and color`**
-   - 3️⃣  **`Saving a figure`**
+   - 3️⃣  **`Saving`** a figure
    - 4️⃣  **`Subplots`**
-   - 5️⃣  **`Multiple figures`**
-   - 6️⃣  **`Pylab vs Pyplot vs Matplotlib`**
+   - 5️⃣  **`Multiple`** figures
+   - 6️⃣  **`Pylab`** vs **`Pyplot`** vs **`Matplotlib`**
    - 7️⃣  **`Drawing text`**
    - 8️⃣  **`Legends`**
    - 9️⃣  **`Non linear scales`**
